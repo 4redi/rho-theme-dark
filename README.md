@@ -1,16 +1,16 @@
-# rho-theme-dark README
+# Rho theme
+Hello! This is a dark theme based on the show Lazy Town. Most colors are shades of dark blue.
 
-## Working with Markdown
+# A simple theme preview
+![Image](./images/theme_preview.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+# Download
+On the extension tab, simply search `Rho theme` and this will pop up:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Image](./images/theme_rho.png)
 
-## For more information
+<blockquote>
+To set it as your default theme tap "Set Color Theme"
+</blockquote>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+<h2 style="text-align:center;">Dont forget to rate and enjoy! 💝</h2>
