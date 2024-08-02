@@ -1,0 +1,26 @@
+{
+  "name": "rho-theme-dark",
+  "displayName": "Rho theme",
+  "description": "A theme with blue shades based off the lazy town tv show!",
+  "publisher": "redi-cool-themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords":[
+    "Theme",
+    "Dark Mode",
+    "Lazy Town"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rho theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rho theme-color-theme.json"
+      }
+    ]
+  }
+}
