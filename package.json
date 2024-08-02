@@ -4,17 +4,18 @@
   "description": "A theme with blue shades based off the lazy town tv show!",
   "publisher": "redi-cool-themes",
   "icon": "./images/icon.jpeg",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
     "Themes"
   ],
-  "keywords":[
+  "keywords": [
     "Theme",
     "Dark Mode",
-    "Lazy Town"],
+    "Lazy Town"
+  ],
   "contributes": {
     "themes": [
       {
