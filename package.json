@@ -4,6 +4,10 @@
   "description": "A theme with blue shades based off the lazy town tv show!",
   "publisher": "redi-cool-themes",
   "icon": "images/icon.jpeg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/4redi/rho-theme-dark.git"
+  },
   "version": "0.2.0",
   "engines": {
     "vscode": "^1.92.0"
