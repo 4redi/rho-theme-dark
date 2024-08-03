@@ -1,4 +1,4 @@
-# Rho theme
+<h1 align="center">Rho theme</h1>
 Hello! This is a dark theme based on the show Lazy Town. Most colors are shades of dark blue.
 
 # A simple theme preview
