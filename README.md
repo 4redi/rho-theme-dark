@@ -13,4 +13,4 @@ On the extension tab, simply search `Rho theme` and this will pop up:
 To set it as your default theme tap "Set Color Theme"
 </blockquote>
 
-<h2 style="text-align:center;">Dont forget to rate and enjoy! 💝</h2>
+<h2 align="center">Dont forget to rate and enjoy! 💝</h2>
